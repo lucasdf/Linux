@@ -1,0 +1,44 @@
+- Create local bin directory
+- Erlang
+- Gogh (install, install themes)
+- PIP and PIP3
+- Install PIP packages:
+    - boto3
+    - pep8
+    - pycodestyle
+    - pydocstyle
+    - pyflakes
+    - requests
+    - flake8
+- Python
+- Python's Virtualenv and Virtualenv wrapper
+- Ruby
+    - install bundler
+- aws cli (install, configure)
+- docker and docker-compose
+- dropbox (add cron at @reboot to run it in startup)
+- git (install,configure)
+- i3 (install,configure)
+- node, npm and N on local directory
+- node packages:
+    - PM2
+
+- spotify
+- alsamixer
+- arandr
+- atom
+- chrome
+- clang
+- curl
+- deluge
+- firefox
+- gimp
+- imagemagick
+- jetbrains ides
+- libre office
+- okular
+- rofi
+- shellcheck
+- thunar
+- vim (install, configure, set as default)
+- vlc
