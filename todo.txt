@@ -45,3 +45,4 @@
 - thunar
 - vim (install, configure, set as default)
 - vlc
+- go
