@@ -13,6 +13,7 @@
 - Python
 - Python's Virtualenv and Virtualenv wrapper
 - Ruby
+    - rbenv
     - install bundler
 - aws cli (install, configure)
 - docker and docker-compose
@@ -23,6 +24,8 @@
 - node packages:
     - PM2
 
+- slack
+- skype
 - spotify
 - alsamixer
 - arandr
