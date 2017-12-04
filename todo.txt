@@ -10,8 +10,10 @@
     - pyflakes
     - requests
     - flake8
+    - Jupyter (https://jupyter.readthedocs.io/en/latest/install.html)
 - Python
 - Python's Virtualenv and Virtualenv wrapper
+  - Configure virtualenvwrapper
 - Ruby
     - rbenv
     - install bundler
